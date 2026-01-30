@@ -54,12 +54,6 @@ Throttle data is encoded as decimal digits across the CAN payload.
 
 ---
 
-## File Structure
-├── apps_can_controller.ino
-└── README.md
-
----
-
 ## Usage
 1. Connect the potentiometers to analog inputs `A0` and `A1`
 2. Configure CAN wiring and termination
